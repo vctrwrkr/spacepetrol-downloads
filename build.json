@@ -1,0 +1,16 @@
+{
+  "name": "Spacepetrol",
+  "version": "0.1.0",
+  "build": "3",
+  "minimum_ios": "17.0",
+  "bundle_identifier": "dev.spacepetrol.app",
+  "platform": "iPhoneOS",
+  "architecture": "arm64",
+  "signed": false,
+  "commit": "f9f56c0f253f77210a071dc6ab4db758a3e7e2ff",
+  "workflow_run": "3",
+  "built_at": "2026-10-11T14:53:36+00:00",
+  "file": "Spacepetrol.ipa",
+  "size_bytes": 79695,
+  "sha256": "3d336c24c0d5296d63d99c53a46dc2a1878ef0d2f3d0e8e6067f3cc160811b6e"
+}
